@@ -11,4 +11,4 @@ sudo service mongod start
 
 After this, run the controller with
 
-python 3 controller.py
+python3 controller.py
